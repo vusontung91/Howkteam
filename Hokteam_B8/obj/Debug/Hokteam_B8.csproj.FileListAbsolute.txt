@@ -1,0 +1,7 @@
+E:\WORK\C#\Hokteam_B8\Hokteam_B8\obj\Debug\Hokteam_B8.csproj.AssemblyReference.cache
+E:\WORK\C#\Hokteam_B8\Hokteam_B8\obj\Debug\Hokteam_B8.csproj.CoreCompileInputs.cache
+E:\WORK\C#\Hokteam_B8\Hokteam_B8\bin\Debug\Hokteam_B8.exe.config
+E:\WORK\C#\Hokteam_B8\Hokteam_B8\bin\Debug\Hokteam_B8.exe
+E:\WORK\C#\Hokteam_B8\Hokteam_B8\bin\Debug\Hokteam_B8.pdb
+E:\WORK\C#\Hokteam_B8\Hokteam_B8\obj\Debug\Hokteam_B8.exe
+E:\WORK\C#\Hokteam_B8\Hokteam_B8\obj\Debug\Hokteam_B8.pdb
